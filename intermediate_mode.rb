@@ -1,3 +1,4 @@
+# NOT OPTIMIZED CODE!!! Written by Ruby beginner!
 # LEVEL 3
 class Player
   def play_turn(warrior)
